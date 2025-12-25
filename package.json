@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/shijimaru/TEST-DRIVE/issues"
   },
-  "homepage": "https://github.com/shijimaru/TEST-DRIVE#readme"
+  "homepage": "https://github.com/shijimaru/TEST-DRIVE#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite3": "^5.1.7"
+  }
 }
